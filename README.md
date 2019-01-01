@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# *MyTube*
+## React + Redux + Api Youtube
+  
+My version of YouTube, building with React!
 
 ## Available Scripts
 
